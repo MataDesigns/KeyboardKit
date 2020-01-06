@@ -1,0 +1,16 @@
+PODS:
+  - KeyboardKit (0.1.0)
+
+DEPENDENCIES:
+  - KeyboardKit (from `../`)
+
+EXTERNAL SOURCES:
+  KeyboardKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeyboardKit: e281b1407253748ece881c05cf06c385be94e4b9
+
+PODFILE CHECKSUM: 2484f9618eb1e6c6c2a47c75a0a3cc49a86879a4
+
+COCOAPODS: 1.8.4
